@@ -1,2 +1,2 @@
 # hello-world
-git-Tutorial
+in diesem repository lerne ich, wie man mit github umgeht.
